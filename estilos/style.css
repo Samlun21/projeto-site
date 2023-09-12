@@ -9,8 +9,33 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 580px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0.473);
+}
+
+img.lado {
+    float: right;
+}
+
+h1 {
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+h2 {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20;
+}
+
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkmagenta;
 }
